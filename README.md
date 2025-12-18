@@ -14,4 +14,4 @@ Hello, I'm Justin. Data Analyst with expertise in data analysis and reporting, q
 ⚡ **Connect with Me** 
 - 💼 [LinkedIn](https://www.linkedin.com/in/justin-eng-almostsurely/)
 - 📂 [Projects](https://github.com/AlmostSurely1476?tab=repositories)
-- 📫 Email: [1476.Justin.Eng@gmail.com](mailto:1476.Justin.Eng@gmail.com)
+- 📫 [1476.Justin.Eng@gmail.com](mailto:1476.Justin.Eng@gmail.com)
