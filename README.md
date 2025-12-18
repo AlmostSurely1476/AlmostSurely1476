@@ -7,6 +7,7 @@ Hello, I'm Justin. Data Analyst with expertise in data analysis and reporting, q
 - Data analysis and reporting using Google Sheets and Excel.
 
 📂 **Projects**
+
 Welcome to my portfolio, where I showcase my [projects.](https://github.com/AlmostSurely1476?tab=repositories)
 
 🔭 **Tools**
