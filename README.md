@@ -11,7 +11,7 @@ Hello, I'm Justin. Data Analyst with expertise in data analysis and reporting, q
 - Database: Google BigQuery, PostgreSQL, MySQL
 - Visualization: Tableau, Looker Studio 
 
-⚡ Connect with Me 
-- 💼 **LinkedIn:** [Click here](https://www.linkedin.com/in/justin-eng-almostsurely/)
-- 📂 **Projects:** [My GitHub projects](https://github.com/AlmostSurely1476?tab=repositories)
-- 📫 **Email:** [1476.Justin.Eng@gmail.com](mailto:1476.Justin.Eng@gmail.com)
+⚡ **Connect with Me** 
+- 💼 LinkedIn: [Click here](https://www.linkedin.com/in/justin-eng-almostsurely/)
+- 📂 Projects: [My GitHub projects](https://github.com/AlmostSurely1476?tab=repositories)
+- 📫 Email: [1476.Justin.Eng@gmail.com](mailto:1476.Justin.Eng@gmail.com)
