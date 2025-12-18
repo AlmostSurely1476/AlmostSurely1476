@@ -12,6 +12,6 @@ Hello, I'm Justin. Data Analyst with expertise in data analysis and reporting, q
 - Visualization: Tableau, Looker Studio 
 
 ⚡ **Connect with Me** 
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/justin-eng-almostsurely/)
-- 📂 Projects: [Projects](https://github.com/AlmostSurely1476?tab=repositories)
+- 💼 [LinkedIn](https://www.linkedin.com/in/justin-eng-almostsurely/)
+- 📂 [Projects](https://github.com/AlmostSurely1476?tab=repositories)
 - 📫 Email: [1476.Justin.Eng@gmail.com](mailto:1476.Justin.Eng@gmail.com)
