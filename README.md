@@ -6,6 +6,9 @@ Hello, I'm Justin. Data Analyst with expertise in data analysis and reporting, q
 - Developing dashboards on Tableau and Looker Studio.
 - Data analysis and reporting using Google Sheets and Excel.
 
+📂 **Projects**
+Welcome to my portfolio, where I showcase my [projects.](https://github.com/AlmostSurely1476?tab=repositories)
+
 🔭 **Tools**
 - Language: SQL, Python
 - Database: Google BigQuery, PostgreSQL, MySQL
@@ -13,5 +16,4 @@ Hello, I'm Justin. Data Analyst with expertise in data analysis and reporting, q
 
 ⚡ **Connect with Me** 
 - 💼 [LinkedIn](https://www.linkedin.com/in/justin-eng-almostsurely/)
-- 📂 [Projects](https://github.com/AlmostSurely1476?tab=repositories)
 - 📫 [1476.Justin.Eng@gmail.com](mailto:1476.Justin.Eng@gmail.com)
