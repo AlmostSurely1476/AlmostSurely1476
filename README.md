@@ -1,16 +1,17 @@
-## Hi there 👋
+😄 **Introducing Myself**
 
-<!--
-**AlmostSurely1476/AlmostSurely1476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Justin. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modeling. 
+- Querying data using SQL
+- Generate reports and perform ad-hoc data analysis using SQL
+- Developing dashboards on Tableau and Looker Studio.
+- Data analysis and reporting using Google Sheets and Excel.
 
-Here are some ideas to get you started:
+🔭 **Tools**
+- Language: SQL, Python
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: Tableau, Looker Studio 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Connect with Me 
+- 💼 **LinkedIn:** [Click here](https://www.linkedin.com/in/justin-eng-almostsurely/)
+- 📂 **Projects:** [My GitHub projects](https://github.com/AlmostSurely1476?tab=repositories)
+- 📫 **Email:** [1476.Justin.Eng@gmail.com](mailto:1476.Justin.Eng@gmail.com)
